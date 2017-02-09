@@ -80,4 +80,6 @@ public class Carta {
         }
     }*/
     
+    /*implementar el compareTo()*/
+    
 }
